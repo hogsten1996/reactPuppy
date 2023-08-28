@@ -75,3 +75,15 @@ button:focus-visible {
 .App{
   background-color: green;
 }
+
+/* .App:hover{
+  color: white;
+} */
+
+.puppy-item{
+  color:white;
+}
+
+.puppy-item:hover{
+  color:black;
+}
